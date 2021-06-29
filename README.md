@@ -5,16 +5,8 @@
 - practice：rust写的一些小程序
 - labs：rCore的lab
 
-在此阶段实现的简易操作系统仓库：[https://github.com/yunwei37/MyrCore](https://github.com/yunwei37/MyrCore)
 
-后续将会继续完善。
 
-可供检查的具体实现目录：
-
-- [rCore labs](labs)
-- [rust practices](part1-exercises-for-rust)
-
-zCore 开发的最终报告：[https://github.com/yunwei37/zcore_migration_notes/blob/master/report.md](https://github.com/yunwei37/zcore_migration_notes/blob/master/report.md)
 
 ## TOC
 
