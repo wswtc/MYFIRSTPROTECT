@@ -1,14 +1,7 @@
 # Daily Schedule for OS Tutorial Summer of Code 2021
 
 - daily_documents：每日笔记
-- part1-exercises-for-rust：rust的一些小练习
-- practice：rust写的一些小程序
-- labs：rCore的lab
 
-
-
-
-## TOC
 
 *七月*
 
@@ -37,31 +30,31 @@
 ## Day 1 2021/7/1
 
 ### 事件1：OS Tutorial Summer of Code 2021
+今晚没收到回复，看到pyq有同学收到回复了。联系老师，得知如果明早没收到回复的话，就再联系他。了解到同学已经学习rust一年有余了，发现自己基础竟如此薄弱。惭愧!今天对GitHub的操作熟悉了一遍，然后参考去年夏令营笙姐的每日报告格式开始记录我每天的学习情况。
 
+### 事件2：rust学习
 
-### 事件2：rust beginner
+期末考试还没结束，忙里偷闲看了一点rust的基础知识，简单浏览了一遍rust的变量。
 
-今天大部分时间还是花在了mit的6.828上面（继续之前的学习），晚上才算是真正开始（入坑）rust。
+主要参考资料：《深入浅出Rust》和 “令狐一冲”的网课
 
-主要参考资料：[Rust 程序设计语言](https://kaisery.github.io/trpl-zh-cn/)
-
-- 安装并配置环境；换到国内源
+- 安装并配置环境；安装vscode；
 - Hello, World!
-- 简单的猜猜看游戏
 
-参考今日文档记录：[Day1_rust_beginner.md](daily_documents/Day1_rust_beginner.md)
+参考今日文档记录：[Jul_Day1.md](daily_documents/Jul_Day1.md)
 
-顺带瞻仰了一下rcore的设计论文，晚上去了一家还不错的日料店（吃到了河豚锅、海胆刺身还有很不错的土瓶烧！）
+### 事件3：rCore学习
 
->rust看起来真好玩
+继续按照之前学堂在线的进度进行学习
 
 ### 问题
 
-- `waiting for file lock on package cache lock` 折腾了一会，虽然解决了问题但并不很清楚其发生的原因；
-- 大概了解了一下rust的设计理念，但语法还需要更深入地学习；
+- 现在是凌晨12点7分了，还没收到回复，看样子只能明天去联系一下老师了
+- 跟同学交流了一下，得知rust入门挺难的，据说需要3个月，之后花在rust上的时间要多一点了
+- 深深的感受到了自己与同龄人之间的差距，竭尽全力吧
 
 ### 预期计划
 
-- 睡个好觉，明天继续看rust基本知识；
-- 简单了解一下 RISC-V 体系结构；
-- 翻翻rCore的论文和tutorial，大概了解一下lab是要做什么怎么做的；
+- 好好复习，尽量减少无效学习时间；
+- 把rust的基础知识看完，早点开始写代码；
+- 赶一下学堂在线的进度。
